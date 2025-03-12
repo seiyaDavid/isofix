@@ -1,0 +1,15 @@
+# Stock Anomaly Detection Configuration
+#
+# This file contains configuration settings for:
+#   - MLflow tracking
+#   - Data processing
+#   - Model management
+
+mlflow:
+  # MLflow configuration
+  tracking_uri: "mlruns"  # Directory for MLflow tracking
+  experiment_name: "stock_anomaly_detection"  # Name of MLflow experiment
+
+data:
+  # Data processing settings
+  output_file: "anomalies.csv"  # File to store detected anomalies 

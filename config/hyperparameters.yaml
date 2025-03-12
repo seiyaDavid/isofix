@@ -1,0 +1,15 @@
+isolation_forest:
+  n_estimators:
+    low: 50
+    high: 300
+  max_samples:
+    low: 0.1
+    high: 1.0
+  contamination:
+    low: 0.01
+    high: 0.1
+  max_features:
+    low: 0.1
+    high: 1.0
+  bootstrap:
+    options: [true, false] 
