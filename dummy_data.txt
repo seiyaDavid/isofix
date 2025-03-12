@@ -1,0 +1,766 @@
+{
+  "clients": [
+    {
+      "personal_information": {
+        "client_id": "WM2024001",
+        "first_name": "Alexander",
+        "last_name": "Rothschild",
+        "preferred_name": "Alex",
+        "date_of_birth": "1975-06-15",
+        "nationality": "Swiss",
+        "tax_residency": "Switzerland",
+        "passport_number": "X1234567",
+        "passport_expiry": "2027-06-14",
+        "primary_residence_address": "15 Bahnhofstrasse, Zürich 8001, Switzerland",
+        "mailing_address": "P.O. Box 1234, Zürich 8001, Switzerland",
+        "primary_phone": "+41 44 123 4567",
+        "secondary_phone": "+41 79 987 6543",
+        "email_address": "a.rothschild@private.ch",
+        "preferred_contact_method": "Email",
+        "preferred_contact_time": "0900-1700 CET",
+        "language_preferences": ["English", "French", "German"],
+        "occupation": "CEO",
+        "employer": "Rothschild Technologies AG",
+        "position_title": "Chief Executive Officer"
+      },
+      "family_information": {
+        "marital_status": "Married",
+        "spouse_name": "Isabella Rothschild",
+        "spouse_dob": "1978-03-22",
+        "number_of_dependents": 2,
+        "next_of_kin": "Isabella Rothschild",
+        "power_of_attorney_details": "Spouse has full POA",
+        "estate_planning_status": "Complete - Last updated 2023"
+      },
+      "risk_profile": {
+        "risk_tolerance_score": 4,
+        "investment_horizon": "10+ years",
+        "investment_objectives": ["Capital Growth", "Wealth Preservation"],
+        "investment_restrictions": ["No tobacco", "No gambling"],
+        "esg_preferences": "Strong ESG focus",
+        "preferred_asset_classes": ["Equities", "Real Estate", "Private Equity"],
+        "loss_tolerance_percentage": 25,
+        "kyc_status": "Approved",
+        "kyc_last_review_date": "2024-01-15"
+      },
+      "financial_information": {
+        "total_assets_under_management": 75000000,
+        "total_net_worth": 150000000,
+        "annual_income": 5000000,
+        "source_of_wealth": ["Business Income", "Inheritance", "Investments"],
+        "source_of_funds": ["Business Operations", "Investment Returns"],
+        "liquidity_needs": "Medium",
+        "tax_bracket": "35%",
+        "preferred_currency": "CHF",
+        "credit_rating": "AAA",
+        "lending_exposure": 10000000
+      },
+      "account_details": {
+        "account_numbers": ["CH93 0076 2011 6238 5295 7", "CH58 0076 2011 6238 5295 8"],
+        "account_types": ["Investment", "Current", "Savings", "Credit"],
+        "relationship_start_date": "2010-01-15",
+        "primary_relationship_manager": "Dr. Marcus Weber",
+        "secondary_relationship_manager": "Sarah Schmidt",
+        "fee_structure": "Tiered",
+        "fee_schedule": "Premium",
+        "preferred_banking_center": "Zürich Main Branch"
+      },
+      "investment_portfolio": {
+        "portfolio_allocation": {
+          "equities": 45,
+          "fixed_income": 20,
+          "real_estate": 15,
+          "private_equity": 15,
+          "cash": 5
+        },
+        "benchmark_preference": "MSCI World",
+        "rebalancing_frequency": "Quarterly",
+        "dividend_preferences": "Reinvest",
+        "tax_loss_harvesting_preference": "Active",
+        "alternative_investment_allocation": 30,
+        "structured_product_exposure": 10,
+        "derivatives_trading_permitted": true
+      },
+      "service_preferences": {
+        "wealth_planning_needs": "Comprehensive",
+        "tax_advisory_needs": "Full Service",
+        "estate_planning_needs": "Active",
+        "philanthropic_interests": ["Education", "Environmental Conservation"],
+        "club_memberships": ["Swiss Banking Circle", "Zürich Golf Club"],
+        "concierge_service_level": "Platinum",
+        "event_preferences": ["Investment Seminars", "Art Exhibitions"],
+        "travel_preferences": "First Class"
+      },
+      "relationship_management": {
+        "last_contact_date": "2024-02-15",
+        "next_review_date": "2024-05-15",
+        "meeting_frequency": "Monthly",
+        "preferred_meeting_location": "Zürich Office",
+        "satisfaction_score": 9.5,
+        "referral_source": "Family Connection",
+        "referrals_given": 3,
+        "lifetime_value": 15000000,
+        "relationship_depth_score": 9
+      },
+      "compliance_regulatory": {
+        "fatca_status": "Non-US Person",
+        "crs_status": "Reportable",
+        "pep_status": false,
+        "high_risk_factors": "None",
+        "compliance_review_date": "2024-01-15",
+        "aml_screening_status": "Cleared",
+        "regulatory_restrictions": "None",
+        "legal_cases_pending": false
+      },
+      "digital_banking": {
+        "online_banking_status": "Active",
+        "mobile_app_usage": "High",
+        "digital_communication_preference": "Secure Email",
+        "two_factor_auth_method": "Hardware Token",
+        "login_security_level": "Maximum",
+        "digital_signature_status": "Enabled"
+      },
+      "special_notes": {
+        "special_interests": ["Art Collection", "Wine Investment"],
+        "hobbies": ["Golf", "Classical Music", "Wine Tasting"],
+        "important_dates": {
+          "wedding_anniversary": "2000-09-15",
+          "birthday": "1975-06-15"
+        },
+        "dietary_restrictions": "None",
+        "gift_preferences": "Fine Wines",
+        "family_office_details": "Integrated with bank services",
+        "professional_advisors": {
+          "lawyer": "Dr. Hans Mueller - Mueller & Partners",
+          "accountant": "KPMG Zürich",
+          "tax_advisor": "PwC Switzerland"
+        }
+      }
+    },
+	{
+      "personal_information": {
+        "client_id": "WM2024002",
+        "first_name": "Hiroshi",
+        "last_name": "Tanaka",
+        "preferred_name": "Hiro",
+        "date_of_birth": "1968-11-23",
+        "nationality": "Japanese",
+        "tax_residency": "Japan",
+        "passport_number": "TZ1234567",
+        "passport_expiry": "2026-11-22",
+        "primary_residence_address": "3-7-1 Roppongi, Minato-ku, Tokyo 106-0032, Japan",
+        "mailing_address": "Same as residence",
+        "primary_phone": "+81 3 1234 5678",
+        "secondary_phone": "+81 90 8765 4321",
+        "email_address": "h.tanaka@corp.jp",
+        "preferred_contact_method": "Phone",
+        "preferred_contact_time": "1000-1800 JST",
+        "language_preferences": ["Japanese", "English"],
+        "occupation": "Chairman",
+        "employer": "Tanaka Electronics Corporation",
+        "position_title": "Chairman of the Board"
+      },
+      "family_information": {
+        "marital_status": "Married",
+        "spouse_name": "Yuki Tanaka",
+        "spouse_dob": "1970-05-15",
+        "number_of_dependents": 3,
+        "next_of_kin": "Yuki Tanaka",
+        "power_of_attorney_details": "Shared with eldest son",
+        "estate_planning_status": "In Progress"
+      },
+      "risk_profile": {
+        "risk_tolerance_score": 3,
+        "investment_horizon": "7-10 years",
+        "investment_objectives": ["Capital Preservation", "Regular Income"],
+        "investment_restrictions": ["No cryptocurrency"],
+        "esg_preferences": "Moderate ESG consideration",
+        "preferred_asset_classes": ["Fixed Income", "Blue Chip Equities", "Real Estate"],
+        "loss_tolerance_percentage": 15,
+        "kyc_status": "Approved",
+        "kyc_last_review_date": "2023-12-10"
+      },
+      "financial_information": {
+        "total_assets_under_management": 120000000,
+        "total_net_worth": 300000000,
+        "annual_income": 8000000,
+        "source_of_wealth": ["Business Income", "Family Business"],
+        "source_of_funds": ["Business Profits", "Investment Returns"],
+        "liquidity_needs": "Low",
+        "tax_bracket": "45%",
+        "preferred_currency": "JPY",
+        "credit_rating": "AA",
+        "lending_exposure": 15000000
+      },
+      "account_details": {
+        "account_numbers": ["JP45 8000 1234 5678 90", "JP45 8000 1234 5678 91"],
+        "account_types": ["Investment", "Current", "Term Deposit"],
+        "relationship_start_date": "2005-03-20",
+        "primary_relationship_manager": "Kenji Yamamoto",
+        "secondary_relationship_manager": "Michelle Wong",
+        "fee_structure": "Tiered Premium",
+        "fee_schedule": "Platinum",
+        "preferred_banking_center": "Tokyo Marunouchi"
+      },
+      "investment_portfolio": {
+        "portfolio_allocation": {
+          "equities": 30,
+          "fixed_income": 40,
+          "real_estate": 20,
+          "cash": 10
+        },
+        "benchmark_preference": "Nikkei 225",
+        "rebalancing_frequency": "Semi-annual",
+        "dividend_preferences": "Income Distribution",
+        "tax_loss_harvesting_preference": "Conservative",
+        "alternative_investment_allocation": 15,
+        "structured_product_exposure": 5,
+        "derivatives_trading_permitted": false
+      },
+      "service_preferences": {
+        "wealth_planning_needs": "Succession Planning",
+        "tax_advisory_needs": "Complex",
+        "estate_planning_needs": "High Priority",
+        "philanthropic_interests": ["Education", "Healthcare"],
+        "club_memberships": ["Tokyo American Club", "Koganei Country Club"],
+        "concierge_service_level": "Black",
+        "event_preferences": ["Business Networking", "Cultural Events"],
+        "travel_preferences": "Private Jet"
+      },
+      "relationship_management": {
+        "last_contact_date": "2024-02-10",
+        "next_review_date": "2024-04-10",
+        "meeting_frequency": "Bi-monthly",
+        "preferred_meeting_location": "Client Office",
+        "satisfaction_score": 9.0,
+        "referral_source": "Business Network",
+        "referrals_given": 5,
+        "lifetime_value": 25000000,
+        "relationship_depth_score": 8.5
+      },
+      "compliance_regulatory": {
+        "fatca_status": "Non-US Person",
+        "crs_status": "Reportable",
+        "pep_status": false,
+        "high_risk_factors": "None",
+        "compliance_review_date": "2023-12-15",
+        "aml_screening_status": "Cleared",
+        "regulatory_restrictions": "None",
+        "legal_cases_pending": false
+      },
+      "digital_banking": {
+        "online_banking_status": "Active",
+        "mobile_app_usage": "Moderate",
+        "digital_communication_preference": "Mobile App",
+        "two_factor_auth_method": "Biometric",
+        "login_security_level": "Maximum",
+        "digital_signature_status": "Enabled"
+      },
+      "special_notes": {
+        "special_interests": ["Traditional Arts", "Tea Ceremony"],
+        "hobbies": ["Golf", "Calligraphy"],
+        "important_dates": {
+          "wedding_anniversary": "1995-04-08",
+          "birthday": "1968-11-23"
+        },
+        "dietary_restrictions": "No shellfish",
+        "gift_preferences": "Traditional Crafts",
+        "family_office_details": "Family office in Tokyo",
+        "professional_advisors": {
+          "lawyer": "Anderson Mori & Tomotsune",
+          "accountant": "Deloitte Japan",
+          "tax_advisor": "EY Japan"
+        }
+      }
+    },
+	{
+      "personal_information": {
+        "client_id": "WM2024004",
+        "first_name": "Rajesh",
+        "last_name": "Mehta",
+        "preferred_name": "Raj",
+        "date_of_birth": "1970-08-15",
+        "nationality": "Indian",
+        "tax_residency": ["India", "UAE"],
+        "passport_number": "Z4567890",
+        "passport_expiry": "2028-08-14",
+        "primary_residence_address": "Palm Jumeirah Frond D, Dubai, UAE",
+        "mailing_address": "P.O. Box 123456, Dubai, UAE",
+        "primary_phone": "+971 50 123 4567",
+        "secondary_phone": "+91 98200 12345",
+        "email_address": "rajesh.mehta@mehtagroup.com",
+        "preferred_contact_method": "WhatsApp",
+        "preferred_contact_time": "1000-1800 GST",
+        "language_preferences": ["English", "Hindi", "Gujarati"],
+        "occupation": "Business Owner",
+        "employer": "Mehta International Trading LLC",
+        "position_title": "Managing Director"
+      },
+      "family_information": {
+        "marital_status": "Married",
+        "spouse_name": "Priya Mehta",
+        "spouse_dob": "1975-03-12",
+        "number_of_dependents": 3,
+        "next_of_kin": "Priya Mehta",
+        "power_of_attorney_details": "Family Trust Structure",
+        "estate_planning_status": "Complete with Regular Reviews"
+      },
+      "risk_profile": {
+        "risk_tolerance_score": 4,
+        "investment_horizon": "10+ years",
+        "investment_objectives": ["Capital Growth", "Wealth Preservation"],
+        "investment_restrictions": ["No Alcohol", "No Gambling"],
+        "esg_preferences": "Strong ESG Focus",
+        "preferred_asset_classes": ["Commercial Real Estate", "Private Equity", "Fixed Income"],
+        "loss_tolerance_percentage": 25,
+        "kyc_status": "Approved",
+        "kyc_last_review_date": "2024-01-15"
+      },
+      "financial_information": {
+        "total_assets_under_management": 180000000,
+        "total_net_worth": 400000000,
+        "annual_income": 12000000,
+        "source_of_wealth": ["Family Business", "Real Estate", "Trading"],
+        "source_of_funds": ["Business Income", "Investment Returns"],
+        "liquidity_needs": "Medium",
+        "tax_bracket": "30%",
+        "preferred_currency": ["USD", "AED"],
+        "credit_rating": "AA",
+        "lending_exposure": 25000000
+      },
+      "account_details": {
+        "account_numbers": [
+          "AE070331234567890123456",
+          "AE070331234567890123457",
+          "CH93007621116238529577"
+        ],
+        "account_types": ["Investment", "Current", "Trading", "Credit"],
+        "relationship_start_date": "2012-06-15",
+        "primary_relationship_manager": "Ahmed Al-Rashid",
+        "secondary_relationship_manager": "John Smith",
+        "fee_structure": "Tiered Premium",
+        "fee_schedule": "Platinum",
+        "preferred_banking_center": "Dubai DIFC Branch"
+      },
+      "investment_portfolio": {
+        "portfolio_allocation": {
+          "equities": 35,
+          "fixed_income": 25,
+          "real_estate": 25,
+          "private_equity": 10,
+          "cash": 5
+        },
+        "benchmark_preference": "MSCI World Islamic Index",
+        "rebalancing_frequency": "Quarterly",
+        "dividend_preferences": "Mix of Reinvestment and Income",
+        "tax_loss_harvesting_preference": "Active",
+        "alternative_investment_allocation": 20,
+        "structured_product_exposure": 15,
+        "derivatives_trading_permitted": true
+      },
+      "service_preferences": {
+        "wealth_planning_needs": "Comprehensive",
+        "tax_advisory_needs": "International Tax Planning",
+        "estate_planning_needs": "Succession Planning",
+        "philanthropic_interests": ["Education", "Healthcare", "Islamic Charities"],
+        "club_memberships": ["Emirates Golf Club", "Dubai Private Members Club"],
+        "concierge_service_level": "Black",
+        "event_preferences": ["Investment Seminars", "Exclusive Social Events"],
+        "travel_preferences": "Private Jet Service"
+      },
+      "relationship_management": {
+        "last_contact_date": "2024-02-18",
+        "next_review_date": "2024-04-15",
+        "meeting_frequency": "Monthly",
+        "preferred_meeting_location": "Client Office or Dubai DIFC",
+        "satisfaction_score": 9.2,
+        "referral_source": "Family Connection",
+        "referrals_given": 4,
+        "lifetime_value": 28000000,
+        "relationship_depth_score": 8.8
+      },
+      "compliance_regulatory": {
+        "fatca_status": "Non-US Person",
+        "crs_status": "Reportable",
+        "pep_status": false,
+        "high_risk_factors": "None",
+        "compliance_review_date": "2024-01-15",
+        "aml_screening_status": "Cleared",
+        "regulatory_restrictions": "None",
+        "legal_cases_pending": false
+      },
+      "digital_banking": {
+        "online_banking_status": "Active",
+        "mobile_app_usage": "High",
+        "digital_communication_preference": "WhatsApp Business",
+        "two_factor_auth_method": "Hardware Token",
+        "login_security_level": "Maximum",
+        "digital_signature_status": "Enabled"
+      },
+      "special_notes": {
+        "special_interests": ["Art Collection", "Classic Cars"],
+        "hobbies": ["Golf", "Horse Racing"],
+        "important_dates": {
+          "wedding_anniversary": "1998-12-10",
+          "birthday": "1970-08-15",
+          "children_birthdays": [
+            "2000-05-20",
+            "2003-03-15",
+            "2005-11-30"
+          ]
+        },
+        "dietary_restrictions": "Vegetarian",
+        "gift_preferences": "Premium Electronics",
+        "family_office_details": "Dedicated family office in DIFC",
+        "professional_advisors": {
+          "lawyer": "Al Tamimi & Company",
+          "accountant": "PwC Dubai",
+          "tax_advisor": "EY International Tax Team",
+          "property_consultant": "Knight Frank Dubai"
+        }
+      }
+    },
+	    {
+      "personal_information": {
+        "client_id": "WM2024005",
+        "first_name": "Maria",
+        "last_name": "Santos-Silva",
+        "preferred_name": "Maria",
+        "date_of_birth": "1988-06-23",
+        "nationality": "Brazilian",
+        "tax_residency": ["Brazil", "USA"],
+        "passport_number": "BR789012",
+        "passport_expiry": "2026-06-22",
+        "primary_residence_address": "Av. Atlântica 2000, Copacabana, Rio de Janeiro",
+        "mailing_address": "1435 Brickell Ave, Miami, FL 33131, USA",
+        "primary_phone": "+55 21 98765 4321",
+        "secondary_phone": "+1 305 123 4567",
+        "email_address": "maria@santostech.com.br",
+        "preferred_contact_method": "Telegram",
+        "preferred_contact_time": "0900-1700 BRT",
+        "language_preferences": ["Portuguese", "English", "Spanish"],
+        "occupation": "Tech Entrepreneur",
+        "employer": "Santos Tech Solutions",
+        "position_title": "Founder & CEO"
+      },
+      "family_information": {
+        "marital_status": "Single",
+        "spouse_name": null,
+        "spouse_dob": null,
+        "number_of_dependents": 0,
+        "next_of_kin": "Eduardo Santos (Father)",
+        "power_of_attorney_details": "Limited to father for Brazilian assets",
+        "estate_planning_status": "Basic Plan - Under Review"
+      },
+      "risk_profile": {
+        "risk_tolerance_score": 5,
+        "investment_horizon": "15+ years",
+        "investment_objectives": ["Aggressive Growth", "Innovation", "Global Expansion"],
+        "investment_restrictions": ["None"],
+        "esg_preferences": "Strong focus on Environmental and Social Impact",
+        "preferred_asset_classes": ["Tech Startups", "Crypto", "Growth Stocks", "Venture Capital"],
+        "loss_tolerance_percentage": 40,
+        "kyc_status": "Approved",
+        "kyc_last_review_date": "2024-01-30"
+      },
+      "financial_information": {
+        "total_assets_under_management": 35000000,
+        "total_net_worth": 70000000,
+        "annual_income": 2500000,
+        "source_of_wealth": ["Tech Company Exit", "Venture Capital"],
+        "source_of_funds": ["Business Proceeds", "Investment Returns"],
+        "liquidity_needs": "Low",
+        "tax_bracket": "34.5% (Brazil)",
+        "preferred_currency": ["USD", "BRL"],
+        "credit_rating": "A",
+        "lending_exposure": 5000000
+      },
+      "account_details": {
+        "account_numbers": [
+          "BR7289012345678901234567",
+          "US325789012345678",
+          "CH93007621116238529588"
+        ],
+        "account_types": ["Investment", "Venture Capital", "Innovation Fund"],
+        "relationship_start_date": "2020-03-15",
+        "primary_relationship_manager": "Carlos Rodriguez",
+        "secondary_relationship_manager": "Jennifer Chen",
+        "fee_structure": "Performance-Based",
+        "fee_schedule": "Entrepreneur Select",
+        "preferred_banking_center": "Miami Innovation Hub"
+      },
+      "investment_portfolio": {
+        "portfolio_allocation": {
+          "tech_stocks": 40,
+          "venture_capital": 25,
+          "cryptocurrency": 15,
+          "growth_stocks": 15,
+          "cash": 5
+        },
+        "benchmark_preference": "NASDAQ-100",
+        "rebalancing_frequency": "Monthly",
+        "dividend_preferences": "Full Reinvestment",
+        "tax_loss_harvesting_preference": "Aggressive",
+        "alternative_investment_allocation": 40,
+        "structured_product_exposure": 0,
+        "derivatives_trading_permitted": true
+      },
+      "service_preferences": {
+        "wealth_planning_needs": "International Structure",
+        "tax_advisory_needs": "US-Brazil Tax Planning",
+        "estate_planning_needs": "Basic",
+        "philanthropic_interests": ["Tech Education", "Environmental Conservation"],
+        "club_memberships": ["Soho House Miami", "Brazilian Tech Hub"],
+        "concierge_service_level": "Entrepreneur Elite",
+        "event_preferences": ["Tech Conferences", "Startup Networking"],
+        "travel_preferences": "Business Class"
+      },
+      "relationship_management": {
+        "last_contact_date": "2024-02-20",
+        "next_review_date": "2024-03-15",
+        "meeting_frequency": "Bi-weekly",
+        "preferred_meeting_location": "Virtual or Miami Office",
+        "satisfaction_score": 9.5,
+        "referral_source": "Tech Network",
+        "referrals_given": 6,
+        "lifetime_value": 12000000,
+        "relationship_depth_score": 8.2
+      },
+      "compliance_regulatory": {
+        "fatca_status": "US Account Holder",
+        "crs_status": "Reportable",
+        "pep_status": false,
+        "high_risk_factors": "Crypto Exposure",
+        "compliance_review_date": "2024-01-30",
+        "aml_screening_status": "Cleared",
+        "regulatory_restrictions": "None",
+        "legal_cases_pending": false
+      },
+      "digital_banking": {
+        "online_banking_status": "Active Premium",
+        "mobile_app_usage": "Very High",
+        "digital_communication_preference": "All Digital",
+        "two_factor_auth_method": "Biometric",
+        "login_security_level": "Maximum",
+        "digital_signature_status": "Enabled with Blockchain Verification"
+      },
+      "special_notes": {
+        "special_interests": ["Emerging Technologies", "Space Tech"],
+        "hobbies": ["Kitesurfing", "Programming", "Angel Investing"],
+        "important_dates": {
+          "birthday": "1988-06-23",
+          "company_founding": "2015-08-10"
+        },
+        "dietary_restrictions": "Vegan",
+        "gift_preferences": "Latest Tech Gadgets",
+        "family_office_details": "Virtual Family Office Structure",
+        "professional_advisors": {
+          "lawyer": "Skadden (US) & Pinheiro Neto (Brazil)",
+          "accountant": "EY Global",
+          "tax_advisor": "PwC International Tax",
+          "tech_consultant": "McKinsey Digital"
+        }
+      }
+    },
+    {
+      "personal_information": {
+        "client_id": "WM2024006",
+        "first_name": "Henrik",
+        "last_name": "Andersson",
+        "preferred_name": "Henrik",
+        "date_of_birth": "1962-09-30",
+        "nationality": "Swedish",
+        "tax_residency": ["Sweden", "Switzerland"],
+        "passport_number": "SE567890",
+        "passport_expiry": "2027-09-29",
+        "primary_residence_address": "Strandvägen 15, 114 56 Stockholm, Sweden",
+        "mailing_address": "Bahnhofstrasse 45, 8001 Zürich, Switzerland",
+        "primary_phone": "+46 70 123 4567",
+        "secondary_phone": "+41 79 987 6543",
+        "email_address": "henrik.andersson@nordic.se",
+        "preferred_contact_method": "Email",
+        "preferred_contact_time": "0900-1600 CET",
+        "language_preferences": ["Swedish", "English", "German"],
+        "occupation": "Industrial CEO",
+        "employer": "Nordic Industrial Group",
+        "position_title": "Chief Executive Officer"
+      },
+      "family_information": {
+        "marital_status": "Married",
+        "spouse_name": "Eva Andersson",
+        "spouse_dob": "1965-04-15",
+        "number_of_dependents": 2,
+        "next_of_kin": "Eva Andersson",
+        "power_of_attorney_details": "Comprehensive Family Trust",
+        "estate_planning_status": "Complete with Regular Updates"
+      },
+      "risk_profile": {
+        "risk_tolerance_score": 3,
+        "investment_horizon": "5-10 years",
+        "investment_objectives": ["Capital Preservation", "Steady Growth", "Income Generation"],
+        "investment_restrictions": ["No Emerging Markets", "No Crypto"],
+        "esg_preferences": "Strong Nordic ESG Standards",
+        "preferred_asset_classes": ["Blue Chip Stocks", "Government Bonds", "Real Estate"],
+        "loss_tolerance_percentage": 15,
+        "kyc_status": "Approved",
+        "kyc_last_review_date": "2023-12-15"
+      },
+      "financial_information": {
+        "total_assets_under_management": 95000000,
+        "total_net_worth": 220000000,
+        "annual_income": 4500000,
+        "source_of_wealth": ["Industry", "Investments", "Inheritance"],
+        "source_of_funds": ["Employment Income", "Investment Returns"],
+        "liquidity_needs": "Medium",
+        "tax_bracket": "52% (Sweden)",
+        "preferred_currency": ["EUR", "SEK", "CHF"],
+        "credit_rating": "AAA",
+        "lending_exposure": 15000000
+      },
+      "account_details": {
+        "account_numbers": [
+          "SE4550000000058398257466",
+          "CH93007621116238529599",
+          "DE89370400440532013000"
+        ],
+        "account_types": ["Investment", "Pension", "Corporate", "Private Banking"],
+        "relationship_start_date": "2008-11-30",
+        "primary_relationship_manager": "Lars Svenson",
+        "secondary_relationship_manager": "Thomas Weber",
+        "fee_structure": "Tiered Traditional",
+        "fee_schedule": "Premium Executive",
+        "preferred_banking_center": "Zürich Main Branch"
+      },
+      "investment_portfolio": {
+        "portfolio_allocation": {
+          "european_equities": 30,
+          "global_bonds": 35,
+          "real_estate": 20,
+          "nordic_equities": 10,
+          "cash": 5
+        },
+        "benchmark_preference": "MSCI Europe",
+        "rebalancing_frequency": "Semi-annual",
+        "dividend_preferences": "Income Distribution",
+        "tax_loss_harvesting_preference": "Conservative",
+        "alternative_investment_allocation": 10,
+        "structured_product_exposure": 5,
+        "derivatives_trading_permitted": false
+      },
+      "service_preferences": {
+        "wealth_planning_needs": "Estate and Succession",
+        "tax_advisory_needs": "Nordic-Swiss Planning",
+        "estate_planning_needs": "Complex Family Structure",
+        "philanthropic_interests": ["Environmental", "Education", "Medical Research"],
+        "club_memberships": ["Stockholm Business Club", "Swiss Alpine Club"],
+        "concierge_service_level": "Platinum",
+        "event_preferences": ["Classical Concerts", "Business Forums"],
+        "travel_preferences": "First Class Commercial"
+      },
+      "relationship_management": {
+        "last_contact_date": "2024-02-15",
+        "next_review_date": "2024-04-30",
+        "meeting_frequency": "Quarterly",
+        "preferred_meeting_location": "Zürich Office",
+        "satisfaction_score": 9.0,
+        "referral_source": "Professional Network",
+        "referrals_given": 3,
+        "lifetime_value": 22000000,
+        "relationship_depth_score": 8.7
+      },
+      "compliance_regulatory": {
+        "fatca_status": "Non-US Person",
+        "crs_status": "Reportable",
+        "pep_status": false,
+        "high_risk_factors": "None",
+        "compliance_review_date": "2023-12-15",
+        "aml_screening_status": "Cleared",
+        "regulatory_restrictions": "None",
+        "legal_cases_pending": false
+      },
+      "digital_banking": {
+        "online_banking_status": "Active",
+        "mobile_app_usage": "Moderate",
+        "digital_communication_preference": "Secure Email",
+        "two_factor_auth_method": "Hardware Token",
+        "login_security_level": "Maximum",
+        "digital_signature_status": "Enabled"
+      },
+      "special_notes": {
+        "special_interests": ["Modern Art", "Climate Technology"],
+        "hobbies": ["Sailing", "Cross-country Skiing", "Wine Collecting"],
+        "important_dates": {
+          "wedding_anniversary": "1990-06-08",
+          "birthday": "1962-09-30",
+          "children_birthdays": [
+            "1993-07-12",
+            "1995-11-03"
+          ]
+        },
+        "dietary_restrictions": "None",
+        "gift_preferences": "Fine Wines and Art",
+        "family_office_details": "Integrated with Stockholm Office",
+        "professional_advisors": {
+          "lawyer": "Mannheimer Swartling",
+          "accountant": "KPMG Nordic",
+          "tax_advisor": "PwC Switzerland",
+          "investment_consultant": "BCG Stockholm"
+        }
+      }
+    }
+  ]
+}
+
+You are an advanced AI private banking assistant with access to detailed client profiles. Your role is to help bankers and authorized personnel query and analyze client information in a conversational manner. You have access to a comprehensive JSON database of high-net-worth clients containing detailed information about their personal profiles, financial status, investment preferences, family situations, and service requirements.
+
+Key Responsibilities:
+1. Answer queries about specific clients or groups of clients
+2. Provide comparative analysis across client segments
+3. Identify investment opportunities and service needs
+4. Flag compliance and regulatory considerations
+5. Suggest relationship management actions
+6. Highlight important dates and upcoming events
+
+Important Guidelines:
+1. Always maintain client confidentiality
+2. Verify the context of queries before providing sensitive information
+3. Format monetary values consistently (default to USD unless specified)
+4. Provide clear, concise responses with relevant data points
+5. Highlight any time-sensitive or critical information
+6. When comparing clients, use relevant benchmarks and segments
+7. Flag any potential compliance or regulatory concerns
+8. Suggest proactive relationship management opportunities
+
+Response Format:
+- For specific client queries: Provide concise summaries with relevant details
+- For analytical queries: Include key statistics and trends
+- For recommendations: List actionable items with supporting data
+- For comparisons: Present data in tabular format when applicable
+- For complex analyses: Break down information into clear sections
+
+You can handle queries such as:
+- "Show me all clients with AUM over $100M"
+- "Which clients have upcoming review meetings?"
+- "Compare investment preferences of tech entrepreneurs"
+- "List clients interested in ESG investments"
+- "Who needs estate planning updates?"
+- "Show risk profiles of clients in Asia"
+- "Which clients have cryptocurrency exposure?"
+- "List all clients with their primary RMs"
+
+Security Note:
+- Always respect data privacy protocols
+- Only provide information relevant to the query
+- Flag any unusual or sensitive data requests
+- Maintain audit trail of significant queries
+
+Remember: You are a tool for authorized banking personnel to better serve their high-net-worth clients while maintaining compliance and security standards.
+
+This system prompt:
+Defines the AI's role and capabilities
+Sets clear guidelines for data handling
+Establishes response formats
+Provides example query types
+Emphasizes security and compliance
+Maintains professional banking standards
+Would you like me to modify any aspect of this prompt or provide example interactions to demonstrate how it works?
